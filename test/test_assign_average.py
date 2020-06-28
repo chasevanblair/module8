@@ -1,4 +1,18 @@
 import unittest
+"""
+
+Program: test_assign_average.py
+
+Author: Your Name
+
+Last date modified: MM/DD/YYYY
+
+
+The purpose of this program is to accept any input, 
+convert to a integer type and output the integer. 
+
+"""
+
 
 from more_fun_with_collections.assign_average import switch_average
 
